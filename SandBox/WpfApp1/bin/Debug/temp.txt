@@ -1,0 +1,232 @@
+Number of Ball 21
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 234
+Color(ARGB) G = 242
+Color(ARGB) B = 73
+Position X = 3313.46476995954
+Position Y = 2351.9905795268
+Momentum X = 1.62704021006552
+Momentum Y = -55.859908779379
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 49
+Color(ARGB) G = 104
+Color(ARGB) B = 160
+Position X = 3091.26381025583
+Position Y = 2909.29392951471
+Momentum X = 41.3101438682575
+Momentum Y = -44.7449529739649
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 238
+Color(ARGB) G = 157
+Color(ARGB) B = 160
+Position X = 2396.91080765822
+Position Y = 3176.23319545037
+Momentum X = 56.8997315971301
+Momentum Y = 4.84010908742704
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 22
+Color(ARGB) G = 59
+Color(ARGB) B = 137
+Position X = 1875.83736918361
+Position Y = 2951.61576757647
+Momentum X = 36.9420203926286
+Momentum Y = 32.9320058529958
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 192
+Color(ARGB) G = 135
+Color(ARGB) B = 57
+Position X = 1613.58818650125
+Position Y = 2553.48324469403
+Momentum X = 13.4737972984239
+Momentum Y = 41.1355127372714
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 248
+Color(ARGB) G = 243
+Color(ARGB) B = 113
+Position X = 1590.23107615279
+Position Y = 2081.6813816952
+Momentum X = -8.53052729366133
+Momentum Y = 37.8272533815243
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 78
+Color(ARGB) G = 235
+Color(ARGB) B = 81
+Position X = 1764.87109701024
+Position Y = 1724.16120855518
+Momentum X = -23.6015593821566
+Momentum Y = 28.3278955729659
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 141
+Color(ARGB) G = 225
+Color(ARGB) B = 213
+Position X = 2116.34732365606
+Position Y = 1475.49838265619
+Momentum X = -34.8305580486943
+Momentum Y = 12.9138697554159
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 133
+Color(ARGB) G = 121
+Color(ARGB) B = 79
+Position X = 2579.5768798082
+Position Y = 1438.03645522957
+Momentum X = -39.3504737395829
+Momentum Y = -7.6559875668727
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 152
+Color(ARGB) G = 232
+Color(ARGB) B = 111
+Position X = 3023.06661236475
+Position Y = 1664.20105498376
+Momentum X = -33.3284895150804
+Momentum Y = -31.1243409558841
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 27
+Color(ARGB) G = 46
+Color(ARGB) B = 168
+Position X = 3899.76935048938
+Position Y = 2698.90039390902
+Momentum X = 14.2750631675538
+Momentum Y = -38.1508155771001
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 151
+Color(ARGB) G = 233
+Color(ARGB) B = 7
+Position X = 2471.8675436034
+Position Y = 3656.36879938103
+Momentum X = 45.1410912361736
+Momentum Y = 2.04501558146141
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 142
+Color(ARGB) G = 225
+Color(ARGB) B = 13
+Position X = 1099.73600796152
+Position Y = 2521.32200138593
+Momentum X = 9.15227471686762
+Momentum Y = 35.8869075232349
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 178
+Color(ARGB) G = 60
+Color(ARGB) B = 242
+Position X = 1143.20849210438
+Position Y = 1616.46856379266
+Momentum X = -11.1445121994773
+Momentum Y = 30.6118417446579
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 130
+Color(ARGB) G = 202
+Color(ARGB) B = 23
+Position X = 1675.98630929862
+Position Y = 913.341172533849
+Momentum X = -24.2899586710847
+Momentum Y = 17.2740462203156
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 103
+Color(ARGB) G = 172
+Color(ARGB) B = 249
+Position X = 2276.44764180068
+Position Y = 665.135853724818
+Momentum X = -28.7917035957439
+Momentum Y = 4.75003809101479
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 84
+Color(ARGB) G = 55
+Color(ARGB) B = 177
+Position X = 2913.76431039827
+Position Y = 703.261738080964
+Momentum X = -28.6554130826156
+Momentum Y = -8.33024358425126
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 54
+Color(ARGB) G = 91
+Color(ARGB) B = 63
+Position X = 3442.56467215849
+Position Y = 983.652248611972
+Momentum X = -24.2804061235875
+Momentum Y = -20.1032881547043
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 8
+Color(ARGB) G = 66
+Color(ARGB) B = 86
+Position X = 3835.85929174558
+Position Y = 1481.6813694362
+Momentum X = -15.1205589546853
+Momentum Y = -30.6821403599952
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 108
+Color(ARGB) G = 161
+Color(ARGB) B = 70
+Position X = 3406.80283982501
+Position Y = 3363.52487269814
+Momentum X = 35.3265538845935
+Momentum Y = -26.8020660357595
+Default
+Mass = 1
+Radius = 50
+Color(ARGB) A = 255
+Color(ARGB) R = 248
+Color(ARGB) G = 208
+Color(ARGB) B = 154
+Position X = 1579.60933055598
+Position Y = 3300.53694808269
+Momentum X = 31.7158096529996
+Momentum Y = 27.3553354803848
