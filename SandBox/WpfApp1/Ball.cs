@@ -17,8 +17,8 @@ namespace WpfApp1
     public double Radius { get; set; } //in unit of mm
 
         private double K = 50; // Hooke's constant
-        private double C = 0.0; // Damping constant
-        private double Cr = 1; // Cr = 1 for elastic collison, Cr=0 for inelastic collison.
+        private double C = 0.1; // Damping constant
+        private double Cr = 0.9; // Cr = 1 for elastic collison, Cr=0 for inelastic collison.
 
     public Vector p = new Vector();//momentum
     public Vector pos = new Vector();//position
