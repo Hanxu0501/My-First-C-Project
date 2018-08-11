@@ -12,7 +12,7 @@ Included physics effect：
     
     b. conentric gravity with controllable strength.
     
-    c. Gravity created by each ball. To make this effect visible, you have to increase the mass of the ball, say 500000.
+    c. Gravity created by each ball. To make this effect visible, you have to increase the mass of the ball, say 5000.
     
 2. Ball collision.
 
